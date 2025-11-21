@@ -726,6 +726,208 @@ const questionsData = [
     explanation: "Ir. Soekarno adalah presiden pertama Republik Indonesia (1945-1967)."
   },
   
+  // Bahasa Inggris (25 soal)
+  {
+    subject: "Bahasa Inggris",
+    question: "Which sentence is grammatically correct?",
+    type: "multiple_choice",
+    options: ["She don't like coffee", "She doesn't likes coffee", "She doesn't like coffee", "She not like coffee"],
+    correct_answer: "She doesn't like coffee",
+    explanation: "The correct form uses 'doesn't' (does not) with the base form of the verb 'like' for third person singular."
+  },
+  {
+    subject: "Bahasa Inggris",
+    question: "What is the past tense of 'go'?",
+    type: "multiple_choice",
+    options: ["Goed", "Went", "Gone", "Going"],
+    correct_answer: "Went",
+    explanation: "'Went' is the correct past tense form of the irregular verb 'go'."
+  },
+  {
+    subject: "Bahasa Inggris",
+    question: "Choose the correct sentence in Present Perfect Tense:",
+    type: "multiple_choice",
+    options: ["I have went to Bali", "I has gone to Bali", "I have gone to Bali", "I have go to Bali"],
+    correct_answer: "I have gone to Bali",
+    explanation: "Present Perfect uses 'have/has + past participle'. 'Gone' is the past participle of 'go'."
+  },
+  {
+    subject: "Bahasa Inggris",
+    question: "What does 'procrastinate' mean?",
+    type: "multiple_choice",
+    options: ["To do something quickly", "To delay or postpone something", "To finish early", "To work hard"],
+    correct_answer: "To delay or postpone something",
+    explanation: "Procrastinate means to delay or postpone doing something, especially as a regular habit."
+  },
+  {
+    subject: "Bahasa Inggris",
+    question: "Which word is a synonym for 'happy'?",
+    type: "multiple_choice",
+    options: ["Sad", "Joyful", "Angry", "Tired"],
+    correct_answer: "Joyful",
+    explanation: "'Joyful' is a synonym of 'happy', both mean feeling pleasure or contentment."
+  },
+  {
+    subject: "Bahasa Inggris",
+    question: "Read: 'The cat is sleeping on the sofa.' What is the subject?",
+    type: "multiple_choice",
+    options: ["Sleeping", "The cat", "The sofa", "On"],
+    correct_answer: "The cat",
+    explanation: "The subject is 'the cat' - the one performing the action of sleeping."
+  },
+  {
+    subject: "Bahasa Inggris",
+    question: "If I _____ rich, I would travel the world.",
+    type: "multiple_choice",
+    options: ["am", "was", "were", "be"],
+    correct_answer: "were",
+    explanation: "This is a second conditional sentence (unreal present). We use 'were' for all subjects in formal English."
+  },
+  {
+    subject: "Bahasa Inggris",
+    question: "What is the plural form of 'child'?",
+    type: "multiple_choice",
+    options: ["Childs", "Childes", "Children", "Childrens"],
+    correct_answer: "Children",
+    explanation: "'Children' is the irregular plural form of 'child'."
+  },
+  {
+    subject: "Bahasa Inggris",
+    question: "She has been studying _____ three hours.",
+    type: "multiple_choice",
+    options: ["since", "for", "during", "while"],
+    correct_answer: "for",
+    explanation: "'For' is used with a period of time (three hours). 'Since' is used with a point in time."
+  },
+  {
+    subject: "Bahasa Inggris",
+    question: "What does 'inevitable' mean?",
+    type: "multiple_choice",
+    options: ["Avoidable", "Certain to happen", "Optional", "Unlikely"],
+    correct_answer: "Certain to happen",
+    explanation: "'Inevitable' means certain to happen and impossible to avoid or prevent."
+  },
+  {
+    subject: "Bahasa Inggris",
+    question: "By next year, I _____ my degree.",
+    type: "multiple_choice",
+    options: ["will finish", "will have finished", "finish", "am finishing"],
+    correct_answer: "will have finished",
+    explanation: "Future Perfect Tense (will have + past participle) is used for actions that will be completed before a specific time in the future."
+  },
+  {
+    subject: "Bahasa Inggris",
+    question: "Which sentence uses the passive voice correctly?",
+    type: "multiple_choice",
+    options: ["The book was wrote by him", "The book was written by him", "The book is wrote by him", "The book written by him"],
+    correct_answer: "The book was written by him",
+    explanation: "Passive voice uses 'be + past participle'. 'Written' is the correct past participle of 'write'."
+  },
+  {
+    subject: "Bahasa Inggris",
+    question: "What is an antonym for 'difficult'?",
+    type: "multiple_choice",
+    options: ["Hard", "Easy", "Complex", "Tough"],
+    correct_answer: "Easy",
+    explanation: "'Easy' is the opposite (antonym) of 'difficult'."
+  },
+  {
+    subject: "Bahasa Inggris",
+    question: "Read: 'Despite the rain, they went hiking.' What does 'despite' mean?",
+    type: "multiple_choice",
+    options: ["Because of", "In spite of", "Due to", "Thanks to"],
+    correct_answer: "In spite of",
+    explanation: "'Despite' means 'in spite of' or 'without being affected by'. It shows contrast."
+  },
+  {
+    subject: "Bahasa Inggris",
+    question: "I wish I _____ taller.",
+    type: "multiple_choice",
+    options: ["am", "was", "were", "be"],
+    correct_answer: "were",
+    explanation: "'Wish' is followed by past tense for unreal present situations. 'Were' is used for all subjects formally."
+  },
+  {
+    subject: "Bahasa Inggris",
+    question: "What does 'comprehend' mean?",
+    type: "multiple_choice",
+    options: ["To misunderstand", "To understand", "To ignore", "To forget"],
+    correct_answer: "To understand",
+    explanation: "'Comprehend' means to understand something fully or completely."
+  },
+  {
+    subject: "Bahasa Inggris",
+    question: "Neither John _____ Mary came to the party.",
+    type: "multiple_choice",
+    options: ["or", "nor", "and", "but"],
+    correct_answer: "nor",
+    explanation: "'Neither' is paired with 'nor' in correlative conjunctions."
+  },
+  {
+    subject: "Bahasa Inggris",
+    question: "Read: 'The movie was so boring that I fell asleep.' What is the tone?",
+    type: "multiple_choice",
+    options: ["Positive", "Negative", "Neutral", "Exciting"],
+    correct_answer: "Negative",
+    explanation: "The tone is negative because the speaker found the movie boring and fell asleep."
+  },
+  {
+    subject: "Bahasa Inggris",
+    question: "He _____ football when it started raining.",
+    type: "multiple_choice",
+    options: ["played", "was playing", "has played", "is playing"],
+    correct_answer: "was playing",
+    explanation: "Past Continuous (was/were + verb-ing) is used for an action in progress when another action interrupted it."
+  },
+  {
+    subject: "Bahasa Inggris",
+    question: "What does 'ambiguous' mean?",
+    type: "multiple_choice",
+    options: ["Clear and specific", "Having multiple meanings", "Very simple", "Incorrect"],
+    correct_answer: "Having multiple meanings",
+    explanation: "'Ambiguous' means unclear or having more than one possible meaning or interpretation."
+  },
+  {
+    subject: "Bahasa Inggris",
+    question: "Which is the correct comparative form?",
+    type: "multiple_choice",
+    options: ["More good", "Gooder", "Better", "Most good"],
+    correct_answer: "Better",
+    explanation: "'Better' is the irregular comparative form of 'good'."
+  },
+  {
+    subject: "Bahasa Inggris",
+    question: "Read: 'Climate change poses a significant threat to our planet.' What is the main idea?",
+    type: "multiple_choice",
+    options: ["Climate is changing", "Climate change is dangerous", "Planets are threatened", "The weather is nice"],
+    correct_answer: "Climate change is dangerous",
+    explanation: "The main idea is that climate change is a significant threat (danger) to our planet."
+  },
+  {
+    subject: "Bahasa Inggris",
+    question: "The house _____ by my grandfather in 1950.",
+    type: "multiple_choice",
+    options: ["build", "builds", "was built", "building"],
+    correct_answer: "was built",
+    explanation: "Passive voice in past tense: was/were + past participle. The house received the action."
+  },
+  {
+    subject: "Bahasa Inggris",
+    question: "What does 'resilient' mean?",
+    type: "multiple_choice",
+    options: ["Weak and fragile", "Able to recover quickly", "Very strict", "Always angry"],
+    correct_answer: "Able to recover quickly",
+    explanation: "'Resilient' means able to recover quickly from difficulties or adapt to change."
+  },
+  {
+    subject: "Bahasa Inggris",
+    question: "By the time you arrive, I _____ cooking.",
+    type: "multiple_choice",
+    options: ["finish", "will finish", "will have finished", "finished"],
+    correct_answer: "will have finished",
+    explanation: "Future Perfect is used for an action that will be completed before another future action."
+  },
+  
   // Seni dan Budaya (25 soal)
   {
     subject: "Seni dan Budaya",
