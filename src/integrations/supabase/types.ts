@@ -82,10 +82,39 @@ export type Database = {
       }
     }
     Views: {
-      [_ in never]: never
+      questions_public: {
+        Row: {
+          created_at: string | null
+          id: string | null
+          options: Json | null
+          question: string | null
+          subject: string | null
+          type: string | null
+        }
+        Insert: {
+          created_at?: string | null
+          id?: string | null
+          options?: Json | null
+          question?: string | null
+          subject?: string | null
+          type?: string | null
+        }
+        Update: {
+          created_at?: string | null
+          id?: string | null
+          options?: Json | null
+          question?: string | null
+          subject?: string | null
+          type?: string | null
+        }
+        Relationships: []
+      }
     }
     Functions: {
-      [_ in never]: never
+      validate_answer: {
+        Args: { question_id: string; user_answer: string }
+        Returns: Json
+      }
     }
     Enums: {
       [_ in never]: never
