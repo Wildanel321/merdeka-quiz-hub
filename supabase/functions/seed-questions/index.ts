@@ -928,6 +928,208 @@ const questionsData = [
     explanation: "Future Perfect is used for an action that will be completed before another future action."
   },
   
+  // Sejarah (25 soal)
+  {
+    subject: "Sejarah",
+    question: "Proklamasi kemerdekaan Indonesia dibacakan pada tanggal?",
+    type: "multiple_choice",
+    options: ["16 Agustus 1945", "17 Agustus 1945", "18 Agustus 1945", "19 Agustus 1945"],
+    correct_answer: "17 Agustus 1945",
+    explanation: "Proklamasi kemerdekaan Indonesia dibacakan oleh Soekarno-Hatta pada tanggal 17 Agustus 1945 di Jalan Pegangsaan Timur No. 56, Jakarta."
+  },
+  {
+    subject: "Sejarah",
+    question: "Siapa yang mendesak Soekarno-Hatta untuk segera memproklamasikan kemerdekaan?",
+    type: "multiple_choice",
+    options: ["Kelompok tua", "Golongan muda", "Tentara Jepang", "Sekutu"],
+    correct_answer: "Golongan muda",
+    explanation: "Golongan muda seperti Sukarni, Chaerul Saleh, dan Wikana mendesak Soekarno-Hatta untuk segera memproklamasikan kemerdekaan."
+  },
+  {
+    subject: "Sejarah",
+    question: "Peristiwa Rengasdengklok terjadi pada tanggal?",
+    type: "multiple_choice",
+    options: ["15 Agustus 1945", "16 Agustus 1945", "17 Agustus 1945", "18 Agustus 1945"],
+    correct_answer: "16 Agustus 1945",
+    explanation: "Peristiwa Rengasdengklok terjadi pada tanggal 16 Agustus 1945, saat golongan muda membawa Soekarno-Hatta ke Rengasdengklok untuk mengamankan mereka."
+  },
+  {
+    subject: "Sejarah",
+    question: "BPUPKI adalah singkatan dari?",
+    type: "multiple_choice",
+    options: ["Badan Penyelidik Usaha Persiapan Kemerdekaan Indonesia", "Badan Persiapan Usaha Proklamasi Kemerdekaan Indonesia", "Badan Penyelidik Usaha Proklamasi Kemerdekaan Indonesia", "Badan Persiapan Usaha Persiapan Kemerdekaan Indonesia"],
+    correct_answer: "Badan Penyelidik Usaha Persiapan Kemerdekaan Indonesia",
+    explanation: "BPUPKI (Badan Penyelidik Usaha Persiapan Kemerdekaan Indonesia) dibentuk pada tanggal 1 Maret 1945."
+  },
+  {
+    subject: "Sejarah",
+    question: "Perang Diponegoro berlangsung pada tahun?",
+    type: "multiple_choice",
+    options: ["1825-1830", "1820-1825", "1830-1835", "1815-1820"],
+    correct_answer: "1825-1830",
+    explanation: "Perang Diponegoro atau Perang Jawa berlangsung dari tahun 1825-1830, dipimpin oleh Pangeran Diponegoro melawan penjajah Belanda."
+  },
+  {
+    subject: "Sejarah",
+    question: "VOC didirikan pada tahun?",
+    type: "multiple_choice",
+    options: ["1600", "1602", "1610", "1620"],
+    correct_answer: "1602",
+    explanation: "VOC (Vereenigde Oostindische Compagnie) didirikan pada tanggal 20 Maret 1602 di Belanda."
+  },
+  {
+    subject: "Sejarah",
+    question: "Tokoh yang memimpin perlawanan rakyat Aceh terhadap Belanda adalah?",
+    type: "multiple_choice",
+    options: ["Teuku Umar", "Imam Bonjol", "Diponegoro", "Sultan Hasanuddin"],
+    correct_answer: "Teuku Umar",
+    explanation: "Teuku Umar adalah pahlawan nasional yang memimpin perlawanan rakyat Aceh melawan penjajah Belanda."
+  },
+  {
+    subject: "Sejarah",
+    question: "Sumpah Pemuda diperingati setiap tanggal?",
+    type: "multiple_choice",
+    options: ["28 Oktober", "17 Agustus", "1 Juni", "20 Mei"],
+    correct_answer: "28 Oktober",
+    explanation: "Sumpah Pemuda diperingati setiap tanggal 28 Oktober, mengenang Kongres Pemuda II pada tahun 1928."
+  },
+  {
+    subject: "Sejarah",
+    question: "Gerakan 30 September 1965 (G30S) terjadi pada masa pemerintahan?",
+    type: "multiple_choice",
+    options: ["Presiden Soeharto", "Presiden Soekarno", "Presiden B.J. Habibie", "Presiden Megawati"],
+    correct_answer: "Presiden Soekarno",
+    explanation: "G30S terjadi pada masa pemerintahan Presiden Soekarno dan menjadi awal transisi ke Orde Baru."
+  },
+  {
+    subject: "Sejarah",
+    question: "Konferensi Asia Afrika pertama diadakan di kota?",
+    type: "multiple_choice",
+    options: ["Jakarta", "Bandung", "Surabaya", "Yogyakarta"],
+    correct_answer: "Bandung",
+    explanation: "Konferensi Asia Afrika (KAA) pertama diadakan di Bandung pada tanggal 18-24 April 1955."
+  },
+  {
+    subject: "Sejarah",
+    question: "Sistem tanam paksa (cultuurstelsel) diperkenalkan oleh?",
+    type: "multiple_choice",
+    options: ["Van der Capellen", "Johannes van den Bosch", "Herman Willem Daendels", "Raffles"],
+    correct_answer: "Johannes van den Bosch",
+    explanation: "Sistem tanam paksa diperkenalkan oleh Gubernur Jenderal Johannes van den Bosch pada tahun 1830."
+  },
+  {
+    subject: "Sejarah",
+    question: "Perang Padri berlangsung di daerah?",
+    type: "multiple_choice",
+    options: ["Sumatra Barat", "Sumatra Utara", "Aceh", "Lampung"],
+    correct_answer: "Sumatra Barat",
+    explanation: "Perang Padri (1803-1837) berlangsung di Sumatra Barat, dipimpin oleh Tuanku Imam Bonjol."
+  },
+  {
+    subject: "Sejarah",
+    question: "Organisasi pergerakan nasional pertama di Indonesia adalah?",
+    type: "multiple_choice",
+    options: ["Sarekat Islam", "Budi Utomo", "Indische Partij", "PNI"],
+    correct_answer: "Budi Utomo",
+    explanation: "Budi Utomo didirikan pada 20 Mei 1908, dianggap sebagai organisasi pergerakan nasional pertama di Indonesia."
+  },
+  {
+    subject: "Sejarah",
+    question: "Agresi Militer Belanda II terjadi pada tanggal?",
+    type: "multiple_choice",
+    options: ["21 Juli 1947", "19 Desember 1948", "17 Agustus 1949", "27 Desember 1949"],
+    correct_answer: "19 Desember 1948",
+    explanation: "Agresi Militer Belanda II dimulai pada tanggal 19 Desember 1948, saat Belanda menyerang Yogyakarta."
+  },
+  {
+    subject: "Sejarah",
+    question: "Perjanjian Linggarjati ditandatangani pada tahun?",
+    type: "multiple_choice",
+    options: ["1945", "1946", "1947", "1948"],
+    correct_answer: "1947",
+    explanation: "Perjanjian Linggarjati ditandatangani pada 25 Maret 1947 antara Indonesia dan Belanda."
+  },
+  {
+    subject: "Sejarah",
+    question: "Pertempuran 10 November 1945 terjadi di kota?",
+    type: "multiple_choice",
+    options: ["Jakarta", "Bandung", "Surabaya", "Semarang"],
+    correct_answer: "Surabaya",
+    explanation: "Pertempuran 10 November 1945 terjadi di Surabaya, diperingati sebagai Hari Pahlawan."
+  },
+  {
+    subject: "Sejarah",
+    question: "Siapa yang dijuluki Bapak Pendidikan Nasional Indonesia?",
+    type: "multiple_choice",
+    options: ["Soekarno", "Ki Hajar Dewantara", "Moh. Hatta", "Soepomo"],
+    correct_answer: "Ki Hajar Dewantara",
+    explanation: "Ki Hajar Dewantara dijuluki Bapak Pendidikan Nasional Indonesia, pendiri Taman Siswa."
+  },
+  {
+    subject: "Sejarah",
+    question: "Pengakuan kedaulatan Indonesia oleh Belanda terjadi pada tanggal?",
+    type: "multiple_choice",
+    options: ["17 Agustus 1945", "27 Desember 1949", "17 Agustus 1950", "1 Juni 1945"],
+    correct_answer: "27 Desember 1949",
+    explanation: "Pengakuan kedaulatan Indonesia oleh Belanda terjadi pada tanggal 27 Desember 1949 melalui Konferensi Meja Bundar."
+  },
+  {
+    subject: "Sejarah",
+    question: "Serangan Umum 1 Maret 1949 dipimpin oleh?",
+    type: "multiple_choice",
+    options: ["Jenderal Sudirman", "Sri Sultan Hamengkubuwono IX", "Letnan Kolonel Soeharto", "Jenderal A.H. Nasution"],
+    correct_answer: "Letnan Kolonel Soeharto",
+    explanation: "Serangan Umum 1 Maret 1949 dipimpin oleh Letnan Kolonel Soeharto untuk membuktikan bahwa TNI masih eksis."
+  },
+  {
+    subject: "Sejarah",
+    question: "Siapa penggagas lahirnya Pancasila?",
+    type: "multiple_choice",
+    options: ["Moh. Hatta", "Soekarno", "Moh. Yamin", "Soepomo"],
+    correct_answer: "Soekarno",
+    explanation: "Ir. Soekarno menyampaikan gagasan tentang dasar negara yang kemudian dikenal sebagai Pancasila pada 1 Juni 1945."
+  },
+  {
+    subject: "Sejarah",
+    question: "Pemberontakan PKI Madiun terjadi pada tahun?",
+    type: "multiple_choice",
+    options: ["1945", "1948", "1965", "1949"],
+    correct_answer: "1948",
+    explanation: "Pemberontakan PKI Madiun terjadi pada bulan September 1948, dipimpin oleh Musso dan Amir Sjarifuddin."
+  },
+  {
+    subject: "Sejarah",
+    question: "Kerajaan Majapahit mencapai puncak kejayaan pada masa pemerintahan?",
+    type: "multiple_choice",
+    options: ["Raden Wijaya", "Jayanegara", "Hayam Wuruk", "Tribhuwana Tungga Dewi"],
+    correct_answer: "Hayam Wuruk",
+    explanation: "Kerajaan Majapahit mencapai puncak kejayaan pada masa pemerintahan Raja Hayam Wuruk dengan Mahapatih Gajah Mada."
+  },
+  {
+    subject: "Sejarah",
+    question: "Sumpah Palapa diucapkan oleh?",
+    type: "multiple_choice",
+    options: ["Hayam Wuruk", "Raden Wijaya", "Gajah Mada", "Ken Arok"],
+    correct_answer: "Gajah Mada",
+    explanation: "Sumpah Palapa diucapkan oleh Mahapatih Gajah Mada untuk menyatukan Nusantara di bawah Majapahit."
+  },
+  {
+    subject: "Sejarah",
+    question: "Kerajaan Sriwijaya berpusat di daerah?",
+    type: "multiple_choice",
+    options: ["Jawa Tengah", "Sumatra Selatan", "Kalimantan", "Sulawesi"],
+    correct_answer: "Sumatra Selatan",
+    explanation: "Kerajaan Sriwijaya berpusat di Palembang, Sumatra Selatan, dan dikenal sebagai kerajaan maritim."
+  },
+  {
+    subject: "Sejarah",
+    question: "Reformasi Indonesia dimulai dengan mundurnya Presiden Soeharto pada tahun?",
+    type: "multiple_choice",
+    options: ["1997", "1998", "1999", "2000"],
+    correct_answer: "1998",
+    explanation: "Era Reformasi dimulai dengan mundurnya Presiden Soeharto pada 21 Mei 1998 setelah menjabat selama 32 tahun."
+  },
+  
   // Seni dan Budaya (25 soal)
   {
     subject: "Seni dan Budaya",
